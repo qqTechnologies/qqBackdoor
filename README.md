@@ -6,4 +6,4 @@
 - shoutout [phobos](https://discord.gg/phobos) (except 3vt hes gay xD)
 - dont use this maliciously. thanks :P
 - code is rushed and shit but ya
-- not everything is here like the tweaker which is just the bootstrapper but less shit.
+- not everything is here like the tweaker which is just the bootstrapper but less shit. also antivm removed cuz its terrible xP

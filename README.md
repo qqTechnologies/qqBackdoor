@@ -1,4 +1,3 @@
-my github is banned :(
 # qqBackdoor v6 - /!\ For educational purposes only /!\
 
 ## Legal disclaimer:
